@@ -1,5 +1,6 @@
 # @title Plotting functions
 import numpy as np
+import numpy
 import matplotlib.pyplot as plt
 from numpy.linalg import inv, eig
 from math import ceil
